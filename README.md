@@ -53,24 +53,14 @@
 
 ---
 
-## 本地运行
+## 下载与运行
 
-### 只跑网页（最快）
+到 [Releases](https://github.com/LukeZhou123/BombLeap/releases) 页面下载对应平台的安装包：
 
-```bash
-cd bomb-leap
-npm run web
-# 然后浏览器打开 http://127.0.0.1:8123
-```
+- **macOS**：`.dmg`（Apple Silicon / Intel 通用）
+- **Windows**：`.msi` 或 `.exe`
 
-### Tauri 桌面版
-
-```bash
-cd bomb-leap
-npm install
-npm run tauri dev        # 开发模式
-npm run build            # 打包 macOS + Windows
-```
+安装后即可离线游玩，无需联网。
 
 ---
 
