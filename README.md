@@ -6,7 +6,7 @@
 
 - 引擎：Canvas 2D + ES Modules（纯前端，`web/` 目录直接开就能玩）
 - 桌面壳：Tauri 2（macOS / Windows）
-- 最新版本：`v1.0.1`
+- 最新版本：`v1.2.0`
 
 ---
 
